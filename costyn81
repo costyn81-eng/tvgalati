@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,diaspora romania
+http://diasporamedia.go.ro:1935/diasporatv/live/chunklist_w1307555235.m3u8
+#EXTINF:-1,dibi tv
+http://diasporamedia.go.ro:1935/dibitv/live/chunklist_w293309563.m3u8
+#EXTINF:-1,etnic tv
+http://diasporamedia.go.ro:1935/etnictv/live/chunklist_w1161982704.m3u8
+#EXTINF:-1,etnic tv
+http://diasporamedia.go.ro:1935/etnictv/live/chunklist_w733631665.m3u8
+#EXTINF:-1,bambi tv
+http://91.235.165.114/live/smil:hls.smil/chunklist_w1995161166_b4128000_slro.m3u8
